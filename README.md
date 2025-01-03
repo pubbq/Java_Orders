@@ -19,3 +19,6 @@
 - ```Payment.java```: Abstract class for payment processing, with subclasses for different payment methods.
 - ```ItemFactory.java```: Implements the Factory design pattern for creating item instances.
 - ```PaymentAdapter.java```: Uses the Adapter design pattern to integrate various payment methods.
+
+#### Contributing
+Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
